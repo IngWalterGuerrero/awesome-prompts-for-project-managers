@@ -8,3 +8,5 @@ Prompts for premium decks, executive presentations, NotebookLM/Kael/Gamma workfl
 - [Minimal Premium Deck](minimal-premium-deck.md)
 - [Project Management Masterclass](project-management-masterclass.md)
 - [Executive Board Presentation](executive-board-presentation.md)
+- [NotebookLM Smartphone Business Media Slides](notebooklm-smartphone-business-media-slides.md)
+
